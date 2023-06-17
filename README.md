@@ -4,7 +4,7 @@ This web app is designed to classify potato plants into one of three categories:
 
 ## Getting Started
 
-To use this web app, simply go to the following URL: <a href=`https://mohamed01555.github.io/potato-disease-classification2/` /a>
+To use this web app, simply go to the following URL: <a href="https://mohamed01555.github.io/potato-disease-classification2/">Potato Disease classifier</a>
 
 Once there, you will see a form where you can upload an image of a potato plant. Select an image from your computer, then click "Submit" to upload it to the server.
 
